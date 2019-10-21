@@ -1,0 +1,25 @@
+.media{
+    display:block;
+    padding-left:10%;
+}
+.media a{
+    text-decoration: none;
+    color:black;
+    text-align: center;
+    
+}
+.btn{
+    background-color:#d3d3d3;
+    display:block;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+    margin-top:1%;
+    border-radius:40%;
+}
+.media_img{
+    width:30%;
+    height:30%;
+    display: block;
+    padding-bottom: 5%;
+}
